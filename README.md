@@ -16,12 +16,16 @@ This software aims to help a user manage their store inventory of books and shoe
 - Track inventory availibilty
 - Import and save inventory lists in the form of CSV files
 - Modify and export CSV files
+- Upload data using Google Sheets API
 - Nice and usable GUI (maybe)
-- (add or subtrack features as needed)
+
+> add or subtrack features as needed
 
 #### Nerd Stuff
 This software has been written in python, and intakes data using CSV files. These files are processed by (insert explanation here), saved locally and displayed throught the GUI, made in PythonQT. An example of this GUI is shown in screenshots.
 
+This program uses Google Sheets API for ease of use and scalability. 
+> insert more stuff here
 
 #### Screenshots
 > insert screenshot here
