@@ -19,18 +19,15 @@ This software aims to help a user manage their store inventory of books and shoe
 - Upload data using Google Sheets API
 - Nice and usable GUI (maybe)
 
-> add or subtrack features as needed
-
 #### Nerd Stuff
-This software has been written in python, and intakes data using CSV files. These files are processed by (insert explanation here), saved locally and displayed throught the GUI, made in PythonQT. An example of this GUI is shown in screenshots.
+This software has been written in python, and intakes data using CSV files. These files are processed using the Google Sheets API, and then can be saved locally or on an external server, depending on the user's discretion. These sheets can then be displayed throught the GUI, made in PythonQT. An example of this GUI is shown in screenshot 1.
 
-This program uses Google Sheets API for ease of use and scalability. 
-> insert more stuff here
-
-#### Screenshots
-> insert screenshot here
+This program contains 3 main folders. One contains the code itself, including InstallAssist and the TreasureChest program itself; the second contains documentation, such as meeting minutes written during Zoom standup meetings, psuedocode, backlog grooming sheets, and more. The final folder contains documents requested by the professor. 
 
 #### Getting Started
 The software files may be delivered via a public webpage which requires credentials, or in the form of a drive.
 
 After downloading, all necessary packages must be downloaded in order for the code to work. Locate the cog gear icon in the applications folder and double click. This will download all the packages to your PC to run this application on. 
+
+#### Screenshots
+> insert screenshot here
