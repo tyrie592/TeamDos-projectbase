@@ -59,4 +59,20 @@ Once installed, the program (located in the code folder) should look like the im
 
 The treasure chest icon will start the program locally. If the JSON file does not match you to an available Google instance, then either you or we probably messed up somewhere and you should either open a issue or try to fix it yourself (tentatively recommended). Once launched successfully, it will display the individual inventories requested during the initial setup. Your local databases can be used to perform queries and updates to the sheets avaliable.
 
+#### Script folders
+
+InstallAssistant is in a separate folder, it links back to the gear icon references above
+
+run_first.py generates the current directory. It is stored in a variable to be referenced by all other scripts. This is the savemyspace.txt file found in the directory where the python files live.
+int.py downloads and installs all requirements for the SQL database to be used in the TreasureChest application
+
+TreasureChest Application is in a separate folder, it also links back to the TreasureChest icon references above
+gui_demo.py launches and imports pullInfo.py and pullInfoLibro.py which pulls all data uploaded to the GoogleSheets by the customer
+sqlcall.py and sqlcall2.py will also be referenced but require adding to a 3rd and 4th button. It is added but requires additional troubleshooting to properly function.
+
+
+
+
+
+
 
