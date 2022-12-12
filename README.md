@@ -51,14 +51,12 @@ Once this is finished, the user must define where to store the data and applicat
 
 
 
+#### Uploading Sheets
 
+Once installed, the program (located in the code folder) should look like the image below.
 
+![image](https://user-images.githubusercontent.com/46247477/206957506-3cc1b614-c055-4f6b-ab3c-55a851d5ae67.png)
 
-
-
-
-
-
-
+The treasure chest icon will start the program locally. If the JSON file does not match you to an available Google instance, then either you or we probably messed up somewhere and you should either open a issue or try to fix it yourself (tentatively recommended). Once launched successfully, it will display the individual inventories requested during the initial setup. Your local databases can be used to perform queries and updates to the sheets avaliable.
 
 
