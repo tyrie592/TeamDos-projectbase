@@ -40,6 +40,8 @@ The software files may be delivered via a public webpage which requires credenti
 After downloading the zip, extra python packages must be downloaded first before the program itself can run. To do this, locate the cog gear icon ![image](https://user-images.githubusercontent.com/46247477/206955647-35e2c91c-1044-4e3b-a863-ec9a0bd76f96.png)
 in the folder and double click. This will download all packages neccesary to run the program to your pc. 
 
+Before going further, you should ensure Homebrew is installed to your mac and is up to date.
+
 Once this is finished, the user must define where to store the data and application. There are two main options: pushing data to a private cloud, or storing data ocally where the app runs. If you plan on storing locally, you will need SQL. The tutorial in the user manual uses MariaDB, but there are other options. Once MariaDB is installed, it must be started to test log in. Once this is complete, you can move on to uploading sheets.
 
 > **Note:** This is a very basic summary. For further installation instructions and program details, please refer to pages 4-6 of the user manual, linked below.
