@@ -29,3 +29,8 @@ This program uses Google Sheets API for ease of use and scalability.
 
 #### Screenshots
 > insert screenshot here
+
+#### Getting Started
+The software files may be delivered via a public webpage which requires credentials, or in the form of a drive.
+
+After downloading, all necessary packages must be downloaded in order for the code to work. Locate the cog gear icon in the applications folder and double click. This will download all the packages to your PC to run this application on. 
